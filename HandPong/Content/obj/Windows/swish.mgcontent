@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Git/HandPong/HandPong/Content/swish.wav</SourceFile>
+  <SourceTime>2018-05-11T08:26:08.0480629-03:00</SourceTime>
+  <DestFile>C:/Git/HandPong/HandPong/Content/bin/Windows/swish.xnb</DestFile>
+  <DestTime>2018-05-11T08:53:25.3890629-03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-02-22T08:44:42-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-02-22T08:44:42-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
